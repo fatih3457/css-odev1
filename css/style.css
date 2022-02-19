@@ -1,0 +1,48 @@
+
+body {background-color: rgba(0, 255, 136, 0.959);}
+
+h1 {
+    color:green;
+    font-size:64px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;       
+}
+
+h2 {
+  color:green;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;       
+}
+
+a    {
+    color: green;
+    text-align: center;
+     }
+
+p    {
+    color: blue;
+    text-align: center;
+     }
+
+ul.a {
+        list-style-position: inside;
+        text-align: center;
+        color: rgb(255, 0, 98);
+      }
+img  {
+        height: 35%;
+        width: 35%;     
+     }
+
+li {
+       text-align: center;
+   }
+
+ol.a {
+    list-style-position: inside;
+    text-align: center;
+    color: rgb(255, 0, 98);
+  }
+
+
+ 
